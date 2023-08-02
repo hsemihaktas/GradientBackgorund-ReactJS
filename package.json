@@ -1,6 +1,6 @@
 {
-  "homepage":"http://hsemihaktas.github.io/GradientBackground-React",
-  "name": "gradientbacground",
+  "homepage":"https://gradient-background-react.vercel.app",
+  "name": "gradientbackground",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
